@@ -3,8 +3,6 @@
 - 🌱 I’m currently learning full stack development (HTML, CSS, JS, React, Node, SQL)
 - 💞️ I’m looking to collaborate on beginner-friendly projects
 - 📫 How to reach me: satyamgagre4@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love solving puzzles and exploring tech gadgets!
 
 
 <!---
