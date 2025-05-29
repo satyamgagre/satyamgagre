@@ -36,10 +36,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=satyamgagre&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=satyamgagre&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=satyamgagre&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-# 📅 GitHub Activity Graph  
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=satyamgagre&theme=github)
 
 # 🌈 Top Languages Word Cloud  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=satyamgagre&layout=compact&theme=dark)
@@ -53,11 +49,8 @@
 ---
 
 ## 📫 Contact Me  
-Feel free to reach out via [email](mailto:satyamgagre4@gmail.com) or connect on [Instagram](https://instagram.com/satya__gagre).  
-I’m always open to discussing new projects or opportunities!
+Feel free to reach out via [email](mailto:satyamgagre4@gmail.com) 
 
 ---
 
 [![](https://visitcount.itsvg.in/api?id=satyamgagre&icon=0&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
