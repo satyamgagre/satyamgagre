@@ -1,3 +1,4 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pandurangzure&label=Profile%20views&color=0e75b6&style=flat" alt="satyamgagre" /> </p>
 # 💫 About Me:
 🔭 Currently Learning: Dart & Python<br>🌱 Exploring: Django & Flutter<br>🤝 Focused On: Improving backend and API integration skills<br>⚡ Passionate About: Turning ideas into clean, functional apps!
 
