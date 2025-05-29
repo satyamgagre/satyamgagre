@@ -38,11 +38,11 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=satyamgagre&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=satyamgagre&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-# 📅 GitHub Activity Calendar  
-![](https://github-readme-activity-graph.cyclic.app/graph?username=satyamgagre&theme=react-dark)
+# 📅 GitHub Activity Graph  
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=satyamgagre&theme=github)
 
-# 🌈 Tech Stack Word Cloud  
-![](https://github-readme-stats.vercel.app/api/wakatime?username=satyamgagre&layout=compact&theme=dark)
+# 🌈 Top Languages Word Cloud  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=satyamgagre&layout=compact&theme=dark)
 
 ### ✍️ Random Dev Quote  
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
