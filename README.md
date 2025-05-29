@@ -8,9 +8,6 @@
 🤝 Focused On: Improving backend and API integration skills  
 ⚡ Passionate About: Turning ideas into clean, functional apps!
 
-<!-- Optionally include a banner -->
-<!-- ![Header](https://your-image-link) -->
-
 ---
 
 ## 🌐 Socials:
@@ -20,23 +17,27 @@
 ---
 
 ## 💻 Tech Stack:
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white)  
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)  
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)  
+
+### 🧑‍💻 Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)  
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white)  
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white)  
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)  
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)  
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
 
 ---
 
-## 🚀 Projects
-- 🔐 [Face Recognition Attendance System](https://github.com/satyamgagre/face-recognition-attendance) – Secure attendance tracker using OpenCV & Python
-- 🌦️ [Weather App](https://github.com/satyamgagre/weather-app) – Real-time weather app using Retrofit and API
-- 🎓 [Student Record Management System](https://github.com/satyamgagre/student-record-system) – Basic CRUD operations in Python
-- 🖼️ [Image Resizer Tool](https://github.com/satyamgagre/image-resizer) – Simple tool for resizing bulk images
+### 🧰 Frameworks & Libraries
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white)  
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white)  
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white)
+
+---
+
+### 🗄️ Databases
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white)  
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
 
 ---
 
@@ -59,4 +60,3 @@
 
 [![](https://visitcount.itsvg.in/api?id=satyamgagre&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
