@@ -30,6 +30,8 @@
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078d7?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)
+![Replit](https://img.shields.io/badge/Replit-000000?style=flat-square&logo=replit&logoColor=white)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=satyamgagre&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
@@ -58,3 +60,4 @@ I’m always open to discussing new projects or opportunities!
 
 [![](https://visitcount.itsvg.in/api?id=satyamgagre&icon=0&color=1)](https://visitcount.itsvg.in)
 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
