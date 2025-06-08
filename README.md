@@ -43,9 +43,11 @@
 ---
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=satyamgagre&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-
-![](https://nirzak-streak-stats.vercel.app/?user=satyamgagre&theme=dark&hide_border=false)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krushnadiwate2417&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krushnadiwate2417&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" />
+</div>
 
 ---
 
