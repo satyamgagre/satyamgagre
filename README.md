@@ -51,11 +51,6 @@
 
 ---
 
-## 🌈 Top Languages
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=satyamgagre&layout=compact&theme=dark)
-
----
-
 ## ✍️ Dev Quote of the Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
