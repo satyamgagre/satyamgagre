@@ -1,10 +1,19 @@
 # 👋 Hi, I'm Satyam Gagre!
 
+![Banner](https://your-image-url.com/banner.png) <!-- Optional: Replace with your custom banner image -->
+
 ## 💫 About Me
 - 🔭 Currently Learning: **Dart & Python**  
 - 🌱 Exploring: **Django & Flutter**  
 - 🤝 Focused On: **Improving backend and API integration skills**  
 - ⚡ Passionate About: *Turning ideas into clean, functional apps!*
+
+---
+
+## 🎯 2025 Learning Goals
+- ✅ Master Django REST API  
+- 🔄 Learn Flutter animations and state management  
+- 🚧 Build a real-time chat app with Firebase  
 
 ---
 
@@ -42,11 +51,14 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
+
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=satyamgagre&theme=dark&hide_border=true" alt="GitHub Streak" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyamgagre&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" />
+  <br />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=satyamgagre&theme=github-dark" alt="GitHub Activity Graph" />
 </div>
 
 ---
@@ -65,4 +77,3 @@
 📧 [satyamgagre4@gmail.com](mailto:satyamgagre4@gmail.com)
 
 ---
-
