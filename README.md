@@ -1,11 +1,12 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/YOUR_USER_ID" width="150" style="border-radius: 50%;" alt="Satyam Gagre Avatar"/>
+  <img src="https://avatars.githubusercontent.com/u/100454315" width="150" style="border-radius: 50%;" alt="Satyam Gagre Avatar"/>
 </p>
 
-# 👋 Hi, I'm Satyam Gagre!
+<h1 align="center">👋 Hi, I'm Satyam Gagre!</h1>
 
-![Visitors](https://komarev.com/ghpvc/?username=satyamgagre&label=Profile%20views&color=0e75b6&style=flat-square)
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=satyamgagre&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views" />
+</p>
 
 > 💡 *"Code with clarity, build with purpose."*
 
@@ -63,13 +64,9 @@
 
 ---
 
-## 🔥 GitHub Contribution Streak
-![GitHub Streak](https://streak-stats.demolab.com/?user=satyamgagre&theme=tokyonight)
+## 🔥 GitHub Streak
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=satyamgagre&theme=tokyonight&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satyamgagre&layout=compact&theme=tokyonight)
-
+![GitHub Streak](https://streak-stats.demolab.com?user=satyamgagre&theme=tokyonight)
 
 ---
 
@@ -82,22 +79,25 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyamgagre&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" />
-  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyamgagre&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
+  <br /><br />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=satyamgagre&theme=github-dark" alt="GitHub Activity Graph" />
 </div>
 
 ---
 
 ## ✍️ Dev Quote of the Day
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
 
 ## 🔝 Top Contributed Repositories
-![](https://github-contributor-stats.vercel.app/api?username=satyamgagre&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+![Top Repos](https://github-contributor-stats.vercel.app/api?username=satyamgagre&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
 ## 📫 Contact Me
+
 📧 [satyamgagre4@gmail.com](mailto:satyamgagre4@gmail.com)
