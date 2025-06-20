@@ -72,11 +72,23 @@
 
 ---
 
+## 🔥 GitHub Contribution Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=satyamgagre&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🗓️ GitHub Contribution Calendar
+
+[![GitHub Contribution Calendar](https://github-contributions-api.deno.dev/satyamgagre.svg)](https://github.com/satyamgagre)
+
+---
+
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=satyamgagre&theme=dark&hide_border=true" alt="GitHub Streak" />
-  <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyamgagre&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" />
   <br />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=satyamgagre&theme=github-dark" alt="GitHub Activity Graph" />
