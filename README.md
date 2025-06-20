@@ -25,16 +25,6 @@
 
 ---
 
-## 🚀 Projects
-
-- 🎓 [The Learners](https://github.com/satyamgagre/the-learners) — E-Learning site built with HTML, CSS & JS  
-- 🤖 [Face Recognition Attendance System](https://github.com/satyamgagre/face-attendance) — Python & OpenCV-based solution  
-- 🌦️ [Weather App](https://github.com/satyamgagre/weather-app) — Fetches live weather data using API  
-- 📝 [Student Record Manager](https://github.com/satyamgagre/student-record-manager) — A CRUD app using Python and File Handling  
-- 📷 [Image Resizer Tool](https://github.com/satyamgagre/image-resizer) — Resize images using Python & PIL  
-
----
-
 ## 🌐 Connect with Me
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/satya__gagre)
