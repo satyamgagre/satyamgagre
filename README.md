@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Satyam Gagre!
 
-![Banner](https://your-image-url.com/banner.png) <!-- Optional: Replace with your custom banner image -->
-
 ## 💫 About Me
 - 🔭 Currently Learning: **Dart & Python**  
 - 🌱 Exploring: **Django & Flutter**  
