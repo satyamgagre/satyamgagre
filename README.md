@@ -6,6 +6,7 @@
 
 ![Visitors](https://komarev.com/ghpvc/?username=satyamgagre&label=Profile%20views&color=0e75b6&style=flat-square)
 
+
 > 💡 *"Code with clarity, build with purpose."*
 
 ---
@@ -64,9 +65,7 @@
 
 ## 🔥 GitHub Contribution Streak
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=satyamgagre&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=satyamgagre&theme=tokyonight)
 
 ---
 
