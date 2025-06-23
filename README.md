@@ -23,7 +23,6 @@
 ## 🎯 2025 Learning Goals
 - ✅ Master Django REST API  
 - 🔄 Learn Flutter animations and state management  
-- 🚧 Build a real-time chat app with Firebase  
 
 ---
 
