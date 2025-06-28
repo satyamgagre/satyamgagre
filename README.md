@@ -97,6 +97,11 @@
 
 ---
 
+### 🧠 My GitHub Contributions
+![3D GitHub Profile](https://raw.githubusercontent.com/satyamgagre/satyamgagre/main/profile-3d-contrib/profile-night-green.svg)
+
+---
+
 ## 📫 Contact Me
 
 📧 [satyamgagre4@gmail.com](mailto:satyamgagre4@gmail.com)
