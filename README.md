@@ -27,16 +27,6 @@
 
 <br clear="both">
 
-## 🎯 2025 Learning Roadmap
-
-```mermaid
-graph LR
-    A[Django REST API] --> B[Flutter State Management]
-    B --> C[Advanced Flutter Animations]
-    C --> D[Microservices Architecture]
-    D --> E[Cloud Deployment]
-```
-
 - ✅ **1:** Master Django REST API development
 - 🔄 **2:** Flutter animations and advanced state management
 - 📅 **3:** Microservices and containerization
