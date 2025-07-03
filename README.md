@@ -23,7 +23,6 @@
 - 🤝 **Focused On:** Backend development and API integration
 - ⚡ **Passionate About:** Transforming ideas into clean, functional applications
 - 🎯 **Goal:** Building scalable and user-friendly mobile & web applications
-- 💬 **Ask me about:** Python, Django, Flutter, or any tech-related stuff
 - 📫 **How to reach me:** [satyamgagre4@gmail.com](mailto:satyamgagre4@gmail.com)
 
 <br clear="both">
