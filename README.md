@@ -37,10 +37,10 @@ graph LR
     D --> E[Cloud Deployment]
 ```
 
-- ✅ **Q1:** Master Django REST API development
-- 🔄 **Q2:** Flutter animations and advanced state management
-- 📅 **Q3:** Microservices and containerization
-- 🎯 **Q4:** Cloud deployment and DevOps practices
+- ✅ **1:** Master Django REST API development
+- 🔄 **2:** Flutter animations and advanced state management
+- 📅 **3:** Microservices and containerization
+- 🎯 **4:** Cloud deployment and DevOps practices
 
 ## 🛠️ Tech Stack
 
