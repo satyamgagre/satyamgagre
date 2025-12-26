@@ -16,7 +16,7 @@ class Developer:
         self.education = "Computer Science Engineering Student"
         self.language = ["Python", "JavaScript"]
         self.stack = ["Django", "React", "Node.js", "MongoDB"]
-        self.location = "Thrissur, Kerala 🇮🇳"
+        self.location = "Pune, Maharashtra "
         self.interests = ["Web Development", "Cybersecurity", "API Development"]
     
     def say_hi(self):
