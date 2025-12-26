@@ -14,16 +14,17 @@ class Developer:
         self.name = "Satyam Gagre"
         self.role = "Full Stack Developer"
         self.education = "Computer Science Engineering Student"
-        self.language = ["Python", "JavaScript"]
-        self.stack = ["Django", "React", "Node.js", "MongoDB"]
-        self.location = "Pune, Maharashtra "
+        self.languages = ["Python", "JavaScript"]
+        self.tech_stack = ["Django", "React", "Node.js", "MongoDB"]
+        self.location = "Pune, Maharashtra"
         self.interests = ["Web Development", "Cybersecurity", "API Development"]
-    
+
     def say_hi(self):
-        print("Let's build something amazing!")
+        return "Let's build something amazing! 🚀"
+
 
 me = Developer()
-me.say_hi()
+print(me.say_hi())
 ```
 
 ---
