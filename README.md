@@ -1,27 +1,37 @@
-<h1 align="center">Hi 👋 I'm Satyam Gagre</h1>
-<h3 align="center">Full Stack Developer | Django & MERN Enthusiast</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F700&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Django+%7C+MERN+Stack;Computer+Science+Student" alt="Typing SVG" />
-</p>
+# 👨‍💻 Satyam Gagre
+
+### Full Stack Developer | Django & MERN Enthusiast
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Django+%7C+MERN+Stack+Expert;Building+Scalable+Web+Solutions;Computer+Science+Student+%F0%9F%8E%93)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
-### 💻 About Me
+## 🚀 About Me
+
 ```python
 class Developer:
     def __init__(self):
         self.name = "Satyam Gagre"
         self.role = "Full Stack Developer"
         self.education = "Computer Science Engineering Student"
-        self.languages = ["Python", "JavaScript"]
-        self.tech_stack = ["Django", "React", "Node.js", "MongoDB"]
-        self.location = "Pune, Maharashtra"
-        self.interests = ["Web Development", "Cybersecurity", "API Development"]
-
+        self.location = "📍 Pune, Maharashtra, India"
+        self.current_focus = "Building scalable web applications"
+        self.interests = ["Web Development", "Cybersecurity", "API Design"]
+        
+    def tech_stack(self):
+        return {
+            "backend": ["Python", "Django", "Node.js", "Express"],
+            "frontend": ["React", "JavaScript", "HTML5", "CSS3"],
+            "databases": ["MongoDB", "MySQL", "PostgreSQL"],
+            "tools": ["Git", "Docker", "VS Code", "Postman"]
+        }
+    
     def say_hi(self):
-        return "Let's build something amazing! 🚀"
-
+        return "Thanks for visiting! Let's build something amazing together 🚀"
 
 me = Developer()
 print(me.say_hi())
@@ -29,31 +39,92 @@ print(me.say_hi())
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack & Tools
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,js,react,nodejs,express,mongodb,mysql,git,vscode" />
-</p>
+<div align="center">
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Frameworks & Libraries
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</div>
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=satyamgagre&show_icons=true&theme=dark&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=satyamgagre&theme=dark&hide_border=true" width="48%" />
-</p>
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=satyamgagre&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=FFFFFF" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=satyamgagre&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyamgagre&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=FFFFFF" alt="Top Languages"/>
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=satyamgagre&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFFFFF" alt="Contribution Graph"/>
+</div>
 
 ---
 
-### 🌐 Let's Connect
+## 🏆 GitHub Trophies
 
-<p align="center">
-  <a href="https://linkedin.com/in/satyamgagre"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://instagram.com/satya__gagre"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="mailto:satyamgagre4@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=satyamgagre&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=satyamgagre&label=Profile%20Views&color=brightgreen&style=flat" />
-</p>
+---
+
+## 💼 What I'm Working On
+
+- 🔭 Building full-stack web applications with Django and React
+- 🌱 Learning advanced cybersecurity concepts and cloud technologies
+- 👯 Open to collaborating on interesting open-source projects
+- 💬 Ask me about Django, React, Node.js, or anything web development
+- 📫 Reach me at: **satyamgagre4@gmail.com**
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/satyamgagre)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/satya__gagre)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:satyamgagre4@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/satyamgagre)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 Quote of the Day
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+### 📈 Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=satyamgagre&label=Profile%20Views&color=3B82F6&style=for-the-badge)
+
+---
+
+**⭐ From [Satyam Gagre](https://github.com/satyamgagre) | Let's build the future together!**
+
+</div>
