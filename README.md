@@ -97,7 +97,6 @@ print(me.say_hi())
 - 🔭 Building full-stack web applications with Django and React
 - 🌱 Learning advanced cybersecurity concepts and cloud technologies
 - 👯 Open to collaborating on interesting open-source projects
-- 💬 Ask me about Django, React, Node.js, or anything web development
 - 📫 Reach me at: **satyamgagre4@gmail.com**
 
 ---
