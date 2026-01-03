@@ -4,7 +4,7 @@
 
 ### Full Stack Developer | Django & MERN Enthusiast
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Django+%7C+MERN+Stack+Expert;Building+Scalable+Web+Solutions;Computer+Science+Student+%F0%9F%8E%93)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Django+%7C+MERN+Stack+Explorer;Building+Scalable+Web+Solutions;Computer+Science+Student+%F0%9F%8E%93)](https://git.io/typing-svg)
 
 </div>
 
