@@ -73,15 +73,28 @@ print(me.say_hi())
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=satyamgagre&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=satyamgagre&theme=tokyonight&hide_border=true" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=satyamgagre&show_icons=true&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://streak-stats.demolab.com?user=satyamgagre&theme=tokyonight&hide_border=true" />
+
 </div>
+
+<br/>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyamgagre&layout=compact&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=satyamgagre&theme=tokyo-night" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyamgagre&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=satyamgagre&theme=tokyo-night&hide_border=true" />
+
 </div>
 
+<br/>
+
+<div align="center">
+
+![Profile Views](https://visitcount.itsvg.in/api?id=satyamgagre&icon=0&color=0)
+
+</div>
 
 ---
 
