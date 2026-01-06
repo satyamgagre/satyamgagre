@@ -90,11 +90,6 @@ print(me.say_hi())
 
 <br/>
 
-<div align="center">
-
-![Profile Views](https://visitcount.itsvg.in/api?id=satyamgagre&icon=0&color=0)
-
-</div>
 
 ---
 
