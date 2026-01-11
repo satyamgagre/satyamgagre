@@ -74,8 +74,8 @@ print(me.say_hi())
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=satyamgagre&show_icons=true&theme=tokyonight&hide_border=true" />
-<img width="49%" src="https://streak-stats.demolab.com?user=satyamgagre&theme=tokyonight&hide_border=true" />
+[![GitHub Streak](https://streak-stats.demolab.com/?user=satyamgagre)](https://git.io/streak-stats)
+
 
 </div>
 
