@@ -74,7 +74,7 @@ print(me.say_hi())
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=satyamgagre)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=satyamgagre)](https://git.io/streak-stats)
 
 
 </div>
