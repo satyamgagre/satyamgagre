@@ -74,11 +74,7 @@ print(me.say_hi())
 
 <div align="center">
 
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=satyamgagre&theme=dark" alt="GitHub Streak" />
-</a>
-
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=satyamgagre&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
