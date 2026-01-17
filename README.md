@@ -21,27 +21,29 @@
 ```javascript
 const satyam = {
     location: "📍 Pune, Maharashtra, India",
-    role: "Full Stack Developer",
+    role: "Aspiring Full Stack Developer",
     education: "Computer Science Engineering Student",
-    
-    currentlyLearning: [
-        "Advanced Cloud Architecture (AWS/Azure)",
-        "Cybersecurity & Ethical Hacking",
-        "System Design & Scalability",
-        "Docker & Kubernetes"
+
+    currentlyWorkingOn: [
+        "Real-time chat application (MERN + Socket.IO)",
+        "Backend APIs and authentication"
     ],
-    
-    lookingFor: "Full-time opportunities & Open Source collaborations",
-    
+
+    learning: [
+        "System design fundamentals",
+        "Scalable backend architecture",
+        "Clean project structure"
+    ],
+
     funFacts: [
-        "🌙 Night owl who codes best after midnight",
-        "☕ Coffee > Tea (always)",
-        "🎮 Gamer when not coding",
-        "📚 Love reading tech blogs and documentation"
+        "🌙 Mostly codes at night",
+        "☕ Runs on coffee",
+        "🐛 Debugging is oddly satisfying"
     ],
-    
+
     reachMe: "satyamgagre4@gmail.com"
 };
+
 ```
 
 <br clear="right"/>
