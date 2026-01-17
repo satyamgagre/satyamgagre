@@ -6,9 +6,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=satyamgagre&label=Profile%20Views&color=00d9ff&style=flat-square" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/satyamgagre?label=Followers&style=flat-square&color=00d9ff" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/satyamgagre?label=Stars&style=flat-square&color=00d9ff" alt="Stars"/>
-</p>
+  </p>
 
 </div>
 
