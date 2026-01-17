@@ -192,6 +192,7 @@ Full-stack product management dashboard
 **Tech Stack:** `MERN Stack` `REST API`
 
 [![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/satyamgagre/mern-product-dashboard)
+[![Live](https://img.shields.io/badge/Live-00D9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://mern-product-dashboard.onrender.com/)
 
 </td>
 </tr>
