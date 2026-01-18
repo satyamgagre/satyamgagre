@@ -184,8 +184,9 @@ Digital notebook for managing your thoughts and ideas
 
 </td>
 </tr>
+
 <tr>
-<td width="50%" colspan="2" align="center">
+<td width="50%">
 
 ### 📊 Product Dashboard
 Full-stack product management dashboard
@@ -196,6 +197,19 @@ Full-stack product management dashboard
 
 [![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/satyamgagre/mern-product-dashboard)
 [![Live](https://img.shields.io/badge/Live-00D9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://mern-product-dashboard.onrender.com/)
+
+</td>
+<td width="50%">
+
+### 🎓 Responsive University Website
+Modern, fully responsive university landing website built with pure frontend technologies
+
+**Features:** Responsive layout, Clean UI, Multi-page design, Mobile-first approach
+
+**Tech Stack:** `HTML5` `CSS3` `JavaScript`
+
+[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/satyamgagre/responsive-university-website)
+[![Live](https://img.shields.io/badge/Live-00D9FF?style=for-the-badge&logo=githubpages&logoColor=white)](https://satyamgagre.github.io/responsive-university-website/)
 
 </td>
 </tr>
