@@ -1,259 +1,101 @@
 <div align="center">
 
-# 💫 Satyam Gagre
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Django+%2B+MERN+Stack+Engineer;Building+Scalable+Solutions;Always+Learning%2C+Always+Growing" alt="Typing SVG" />
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=satyamgagre&label=Profile%20Views&color=00d9ff&style=flat-square" alt="Profile Views"/>
-  </p>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=200&section=header&text=Satyam%20Gagre&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=55&desc=Full%20Stack%20Developer&descAlignY=78&descSize=18" />
 
 </div>
 
+<br>
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=500&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Django+%2B+MERN+Stack+Engineer+%E2%9C%A6;Building+Scalable+Solutions+%E2%9C%A6;Always+Learning%2C+Always+Growing+%E2%9C%A6" alt="Typing SVG" />
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=satyamgagre&label=profile+views&color=a78bfa&style=flat" />
+
+</div>
+
+<br>
+
 ---
 
-## 👨‍💻 About Me
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="300" />
 
-  <img align="right" alt="Night Coding" width="380"
-src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" />
+### 🧑‍💻 &nbsp;About Me
 
+&nbsp;&nbsp;📍 &nbsp;Pune, Maharashtra, India  
+&nbsp;&nbsp;🎓 &nbsp;Computer Science Engineering Student  
+&nbsp;&nbsp;🚀 &nbsp;Aspiring Full Stack Developer  
+&nbsp;&nbsp;📬 &nbsp;satyamgagre4@gmail.com  
 
+<br>
 
-```javascript
-const satyam = {
-    location: "📍 Pune, Maharashtra, India",
-    role: "Aspiring Full Stack Developer",
-    education: "Computer Science Engineering Student",
+**Currently building**
+- Real-time chat app — MERN + Socket.IO
+- Backend APIs & authentication systems
 
-    currentlyWorkingOn: [
-        "Real-time chat application (MERN + Socket.IO)",
-        "Backend APIs and authentication"
-    ],
+**Currently learning**
+- System design & scalable architecture
+- Clean project structure
 
-    learning: [
-        "System design fundamentals",
-        "Scalable backend architecture",
-        "Clean project structure"
-    ],
+<br>
 
-    funFacts: [
-        "🌙 Mostly codes at night",
-        "☕ Runs on coffee",
-        "🐛 Debugging is oddly satisfying"
-    ],
-
-    reachMe: "satyamgagre4@gmail.com"
-};
-
-```
+> *🌙 Codes at night &nbsp;·&nbsp; ☕ Runs on coffee &nbsp;·&nbsp; 🐛 Loves debugging*
 
 <br clear="right"/>
 
-> 💡 **Currently focused on:** Building scalable web applications with modern tech stacks and exploring cybersecurity fundamentals
-
 ---
 
-## 🚀 Tech Arsenal
+### 🛠️ &nbsp;Tech Stack
 
 <div align="center">
 
-### 💻 Languages & Frameworks
-
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-<br><strong>Python</strong>
-</td>
-<td align="center" width="25%">
-<img src="https://skillicons.dev/icons?i=django" width="48" height="48" alt="Django" />
-<br><strong>Django</strong>
-</td>
-<td align="center" width="25%">
-<img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript" />
-<br><strong>JavaScript</strong>
-</td>
-<td align="center" width="25%">
-<img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-<br><strong>React</strong>
-</td>
-</tr>
-<tr>
-<td align="center" width="25%">
-<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-<br><strong>Node.js</strong>
-</td>
-<td align="center" width="25%">
-<img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
-<br><strong>Express</strong>
-</td>
-<td align="center" width="25%">
-<img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-<br><strong>HTML5</strong>
-</td>
-<td align="center" width="25%">
-<img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
-<br><strong>CSS3</strong>
-</td>
-</tr>
-</table>
-
-### 🗄️ Databases & Tools
-
-<table>
-<tr>
-<td align="center" width="20%">
-<img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-<br><strong>MongoDB</strong>
-</td>
-<td align="center" width="20%">
-<img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
-<br><strong>MySQL</strong>
-</td>
-<td align="center" width="20%">
-<img src="https://skillicons.dev/icons?i=postgresql" width="48" height="48" alt="PostgreSQL" />
-<br><strong>PostgreSQL</strong>
-</td>
-<td align="center" width="20%">
-<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-<br><strong>Git</strong>
-</td>
-<td align="center" width="20%">
-<img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
-<br><strong>Docker</strong>
-</td>
-</tr>
-<tr>
-<td align="center" width="20%">
-<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
-<br><strong>VS Code</strong>
-</td>
-<td align="center" width="20%">
-<img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
-<br><strong>Postman</strong>
-</td>
-<td align="center" width="20%">
-<img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
-<br><strong>GitHub</strong>
-</td>
-<td align="center" width="20%">
-<img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-<br><strong>Linux</strong>
-</td>
-<td align="center" width="20%">
-<img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
-<br><strong>Figma</strong>
-</td>
-</tr>
-</table>
+<img src="https://skillicons.dev/icons?i=python,django,javascript,react,nodejs,express,html,css,mongodb,mysql,postgresql,git,vscode,postman,github,linux,figma&theme=dark&perline=9" />
 
 </div>
 
 ---
 
-## 🎯 Featured Projects
+### 🗂️ &nbsp;Projects
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%">
-
-### 💬 ChatsApp
-Real-time messaging application with JWT authentication and Socket.IO
-
-**Features:** Live chat, Online status, Image uploads, Multiple themes
-
-**Tech Stack:** `React` `Node.js` `MongoDB` `Socket.IO` `Cloudinary`
-
-[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/satyamgagre/mern-chats-app)
-[![Live](https://img.shields.io/badge/Live-00D9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://chatsapp-3j9i.onrender.com/)
-
-</td>
-<td width="50%">
-
-### 📝 ThoughtPad
-Digital notebook for managing your thoughts and ideas
-
-**Features:** CRUD operations, Rate limiting, Responsive design, Clean UI
-
-**Tech Stack:** `React` `Express` `MongoDB` `Redis` `Tailwind CSS`
-
-[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/satyamgagre/mern-ThoughtPad)
-[![Live](https://img.shields.io/badge/Live-00D9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://mern-product-catalog-c8ha.onrender.com/)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 📊 Product Dashboard
-Full-stack product management dashboard
-
-**Features:** Product CRUD, Dashboard analytics, Modern UI
-
-**Tech Stack:** `MERN Stack` `REST API`
-
-[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/satyamgagre/mern-product-dashboard)
-[![Live](https://img.shields.io/badge/Live-00D9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://mern-product-dashboard.onrender.com/)
-
-</td>
-<td width="50%">
-
-### 🎓 Responsive University Website
-Modern, fully responsive university landing website built with pure frontend technologies
-
-**Features:** Responsive layout, Clean UI, Multi-page design, Mobile-first approach
-
-**Tech Stack:** `HTML5` `CSS3` `JavaScript`
-
-[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/satyamgagre/responsive-university-website)
-[![Live](https://img.shields.io/badge/Live-00D9FF?style=for-the-badge&logo=githubpages&logoColor=white)](https://satyamgagre.github.io/responsive-university-website/)
-
-</td>
-</tr>
-</table>
-
-<details>
-<summary>💡 <b>View All Repositories</b></summary>
-<br>
-
-Explore more projects: [github.com/satyamgagre?tab=repositories](https://github.com/satyamgagre?tab=repositories)
-
-</details>
+| Project | Description | Stack | Links |
+|--------|-------------|-------|-------|
+| **💬 ChatsApp** | Real-time messaging with JWT auth & live status | `React` `Node.js` `MongoDB` `Socket.IO` `Cloudinary` | [Repo](https://github.com/satyamgagre/mern-chats-app) · [Live](https://chatsapp-3j9i.onrender.com/) |
+| **📝 ThoughtPad** | Digital notebook with rate limiting & clean UI | `React` `Express` `MongoDB` `Redis` `Tailwind` | [Repo](https://github.com/satyamgagre/mern-ThoughtPad) · [Live](https://mern-product-catalog-c8ha.onrender.com/) |
+| **📊 Product Dashboard** | Full-stack product management & analytics | `MERN Stack` `REST API` | [Repo](https://github.com/satyamgagre/mern-product-dashboard) · [Live](https://mern-product-dashboard.onrender.com/) |
+| **🎓 University Website** | Responsive multi-page landing site | `HTML5` `CSS3` `JavaScript` | [Repo](https://github.com/satyamgagre/responsive-university-website) · [Live](https://satyamgagre.github.io/responsive-university-website/) |
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+### 📊 &nbsp;GitHub Stats
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=satyamgagre&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=satyamgagre&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=satyamgagre&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D0D0D&title_color=A78BFA&icon_color=A78BFA&text_color=CCCCCC" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=satyamgagre&theme=midnight-purple&hide_border=true&background=0D0D0D&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" />
 
-</div>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyamgagre&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=satyamgagre&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" />
-</div>
-
----
-
-## 🏆 Achievements & Trophies
-
-<div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=satyamgagre&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15&title_color=00D9FF)](https://github.com/ryo-ma/github-profile-trophy)
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyamgagre&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D0D0D&title_color=A78BFA&text_color=CCCCCC" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=satyamgagre&theme=tokyo-night&hide_border=true&bg_color=0D0D0D&color=A78BFA&line=A78BFA&point=FFFFFF" />
 
 </div>
 
 ---
 
-## 📈 Contribution Graph
+### 🏆 &nbsp;Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=satyamgagre&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=12)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+### 🐍 &nbsp;Contribution
 
 <div align="center">
 
@@ -263,28 +105,24 @@ Explore more projects: [github.com/satyamgagre?tab=repositories](https://github.
 
 ---
 
-## 🌐 Let's Connect
+### 🤝 &nbsp;Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/satyamgagre)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/satya__gagre)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/satyamgagre)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/satya__gagre)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:satyamgagre4@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/satyamgagre)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/satyamgagre)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23A78BFA.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/satyamgagre)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/satyamgagre)
 
-### 💬 Open to Opportunities
-📧 **Email:** satyamgagre4@gmail.com  
-📱 **Open for:** Internships | Full-time Roles | Freelance Projects | Open Source Contributions
+<br>
+
+**Open for** — Internships &nbsp;·&nbsp; Full-time &nbsp;·&nbsp; Freelance &nbsp;·&nbsp; Open Source
 
 </div>
 
----
+<br>
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=120&section=footer"/>
-
-**⭐ From [Satyam Gagre](https://github.com/satyamgagre) | Thanks for visiting! Happy Coding! 🚀**
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
 </div>
