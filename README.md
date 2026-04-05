@@ -1,77 +1,70 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=200&section=header&text=Satyam%20Gagre&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=55&desc=Full%20Stack%20Developer&descAlignY=78&descSize=18" />
+# Satyam Gagre
+
+**Full Stack Developer** · Pune, India · CS Engineering Student
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Outfit&weight=500&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=480&lines=MERN+Stack+%2B+Django+%2F+Python;JWT+%C2%B7+WebSockets+%C2%B7+Redis+%C2%B7+REST+APIs;Building+things+people+actually+use)](https://github.com/satyamgagre)
+
+[![Profile Views](https://komarev.com/ghpvc/?username=satyamgagre&label=profile+views&color=a78bfa&style=flat)](https://github.com/satyamgagre)
 
 </div>
 
-<br>
+---
 
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=500&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Django+%2B+MERN+Stack+Engineer+%E2%9C%A6;Building+Scalable+Solutions+%E2%9C%A6;Always+Learning%2C+Always+Growing+%E2%9C%A6" alt="Typing SVG" />
+I'm a CS student in Pune who gets genuinely excited about WebSockets, clean API design, and shipping things that actually work end-to-end. I build with the MERN stack and Django, and I care more about understanding *why* something works than just making it run.
 
-<br><br>
+Currently figuring out system design, scalable architecture, and how to write backend code I won't be embarrassed by in six months.
 
-<img src="https://komarev.com/ghpvc/?username=satyamgagre&label=profile+views&color=a78bfa&style=flat" />
-
-</div>
-
-<br>
+> 🌙 Codes at night &nbsp;·&nbsp; ☕ Runs on coffee &nbsp;·&nbsp; 🐛 Loves debugging
 
 ---
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="300" />
-
-### 🧑‍💻 &nbsp;About Me
-
-&nbsp;&nbsp;📍 &nbsp;Pune, Maharashtra, India  
-&nbsp;&nbsp;🎓 &nbsp;Computer Science Engineering Student  
-&nbsp;&nbsp;🚀 &nbsp;Aspiring Full Stack Developer  
-&nbsp;&nbsp;📬 &nbsp;satyamgagre4@gmail.com  
-
-<br>
-
-**Currently building**
-- Real-time chat app — MERN + Socket.IO
-- Backend APIs & authentication systems
-
-**Currently learning**
-- System design & scalable architecture
-- Clean project structure
-
-<br>
-
-> *🌙 Codes at night &nbsp;·&nbsp; ☕ Runs on coffee &nbsp;·&nbsp; 🐛 Loves debugging*
-
-<br clear="right"/>
-
----
-
-### 🛠️ &nbsp;Tech Stack
+### 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,django,javascript,react,nodejs,express,html,css,mongodb,mysql,postgresql,git,vscode,postman,github,linux,figma&theme=dark&perline=9" />
+<img src="https://skillicons.dev/icons?i=python,django,javascript,react,nodejs,express,html,css,mongodb,mysql,postgresql,redis,git,vscode,postman,github,linux,figma&theme=dark&perline=9" />
 
 </div>
 
 ---
 
-### 🗂️ &nbsp;Projects
+### 🗂️ Projects
 
-<div align="center">
+#### 💬 [ChatsApp](https://github.com/satyamgagre/mern-chats-app) · [Live Demo](https://chatsapp-3j9i.onrender.com/)
 
-| Project | Description | Stack | Links |
-|--------|-------------|-------|-------|
-| **💬 ChatsApp** | Real-time messaging with JWT auth & live status | `React` `Node.js` `MongoDB` `Socket.IO` `Cloudinary` | [Repo](https://github.com/satyamgagre/mern-chats-app) · [Live](https://chatsapp-3j9i.onrender.com/) |
-| **📝 ThoughtPad** | Digital notebook with rate limiting & clean UI | `React` `Express` `MongoDB` `Redis` `Tailwind` | [Repo](https://github.com/satyamgagre/mern-ThoughtPad) · [Live](https://mern-product-catalog-c8ha.onrender.com/) |
-| **📊 Product Dashboard** | Full-stack product management & analytics | `MERN Stack` `REST API` | [Repo](https://github.com/satyamgagre/mern-product-dashboard) · [Live](https://mern-product-dashboard.onrender.com/) |
-| **🎓 University Website** | Responsive multi-page landing site | `HTML5` `CSS3` `JavaScript` | [Repo](https://github.com/satyamgagre/responsive-university-website) · [Live](https://satyamgagre.github.io/responsive-university-website/) |
+Real-time chat application with instant messaging, online presence indicators, and multi-theme support. Built end-to-end: JWT auth with bcrypt, Socket.IO rooms, Cloudinary for image uploads, and Zustand for frontend state. The trickiest part was syncing online/offline status reliably across disconnections.
 
-</div>
+`React` `Node.js` `Express` `MongoDB` `Socket.IO` `Zustand` `Cloudinary` `JWT` `TailwindCSS`
 
 ---
 
-### 📊 &nbsp;GitHub Stats
+#### 📝 [ThoughtPad](https://github.com/satyamgagre/mern-ThoughtPad) · [Live Demo](https://mern-product-catalog-c8ha.onrender.com/)
+
+Digital notebook app with rate limiting powered by Redis to prevent abuse. Clean UI with Tailwind, full CRUD on the backend. This is where I first got serious about protecting APIs beyond basic auth.
+
+`React` `Express` `MongoDB` `Redis` `Tailwind`
+
+---
+
+#### 📊 [Product Dashboard](https://github.com/satyamgagre/mern-product-dashboard) · [Live Demo](https://mern-product-dashboard.onrender.com/)
+
+Full-stack product management and analytics dashboard with REST API and complete CRUD operations. Focused on clean data flow between frontend and backend.
+
+`React` `Node.js` `Express` `MongoDB` `REST API`
+
+---
+
+#### 🎓 [University Website](https://github.com/satyamgagre/responsive-university-website) · [Live Demo](https://satyamgagre.github.io/responsive-university-website/)
+
+Responsive multi-page landing site built in pure HTML/CSS/JS — no frameworks. Good practice in layout, responsive design, and vanilla DOM work.
+
+`HTML5` `CSS3` `JavaScript`
+
+---
+
+### 📊 GitHub Stats
 
 <div align="center">
 
@@ -79,23 +72,12 @@
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=satyamgagre&theme=midnight-purple&hide_border=true&background=0D0D0D&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" />
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyamgagre&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D0D0D&title_color=A78BFA&text_color=CCCCCC" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=satyamgagre&theme=tokyo-night&hide_border=true&bg_color=0D0D0D&color=A78BFA&line=A78BFA&point=FFFFFF" />
 
 </div>
 
 ---
 
-### 🏆 &nbsp;Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=satyamgagre&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=12)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-### 🐍 &nbsp;Contribution
+### 🐍 Contribution
 
 <div align="center">
 
@@ -105,14 +87,13 @@
 
 ---
 
-### 🤝 &nbsp;Connect
+### 🤝 Connect
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/satyamgagre)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/satya__gagre)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:satyamgagre4@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23A78BFA.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/satyamgagre)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/satya__gagre)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/satyamgagre)
 
 <br>
@@ -124,5 +105,5 @@
 <br>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=footer&animation=twinkling"/>
 </div>
