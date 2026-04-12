@@ -14,8 +14,6 @@
 
 I'm a CS student in Pune who gets genuinely excited about WebSockets, clean API design, and shipping things that actually work end-to-end. I build with the MERN stack and Django, and I care more about understanding *why* something works than just making it run.
 
-Currently figuring out system design, scalable architecture, and how to write backend code I won't be embarrassed by in six months.
-
 > 🌙 Codes at night &nbsp;·&nbsp; ☕ Runs on coffee &nbsp;·&nbsp; 🐛 Loves debugging
 
 ---
